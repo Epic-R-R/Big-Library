@@ -2,13 +2,13 @@
 
 ![Cover Big Library](BigLibrary.jpg)
 
-
+<div dir="rtl">
+  
 <details>
   <summary>رمان &check;</summary>
   <br>
     
-  - پیشنیاز ها &check;
-  -- [خواندن کتاب به صورت آنلاین](https://github.com/Epic-R-R/Big-Library/blob/master/Romance/Pride-and-Prejudice.pdf)
+  - پیشنیاز ها &check; [خواندن کتاب به صورت آنلاین](https://github.com/Epic-R-R/Big-Library/blob/master/Romance/Pride-and-Prejudice.pdf)
     
 </details>
   
@@ -44,3 +44,4 @@
   - جمع بندی &check;
     
 </details>
+</div>
